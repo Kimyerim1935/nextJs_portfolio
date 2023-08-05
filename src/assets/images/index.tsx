@@ -1,1 +1,0 @@
-// export { ReactComponent as Icon_arrow } from './ic_arrow.svg';
