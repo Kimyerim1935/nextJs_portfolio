@@ -1,4 +1,4 @@
-import ErrAnimation from 'src/pages/components/home/errAnimation';
+import ErrAnimation from 'src/components/home/errAnimation';
 import Link from 'next/link';
 export default function PageNotFound() {
     return (
