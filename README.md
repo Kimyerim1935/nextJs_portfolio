@@ -1,5 +1,3 @@
-## Hello
-
 ## Project url
 https://next-js-portfolio-lake-eta.vercel.app/
 
