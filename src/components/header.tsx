@@ -22,7 +22,7 @@ export default function Header() {
                         <Link href='/aboutMe'>
                             <span className="mr-5 hover:text-gray-900">About Me</span>
                         </Link>
-                        <Link href='https://denim-kookaburra-74c.notion.site/b2308e7117db4bc590b313243b516044?v=b209ad706cec4935acc1b39927137c40&pvs=4' target="_blank">
+                        <Link href='https://bottlenose-blarney-f0e.notion.site/f3c3d0a0adb64a6dbc0fe1a07ee31d2c?v=0a2c898142dd4a49bf9dc1fb7d86eb39&pvs=4' target="_blank">
                             <span className="mr-5 hover:text-gray-900">Projects</span>
                         </Link>
                         <a href="https://open.kakao.com/o/sy8Dmgzf" target="_blank" className="mr-5 hover:text-gray-900">Contacts</a>
