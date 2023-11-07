@@ -13,7 +13,7 @@ export default function Footer() {
                 <a href="https://twitter.com/knyttneve" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@kimyerim</a>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                <a className="text-gray-500" href="https://denim-kookaburra-74c.notion.site/Kim-Yerim-97b443e628d74f9f88d4eba0a19a70d6?pvs=4" target="_blank">
+                <a className="text-gray-500" href="https://bottlenose-blarney-f0e.notion.site/Kim-Ye-Lim-2f3473c6b530419aa17f175a92f724cc?pvs=4" target="_blank">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-5 h-5">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 00-6.364-6.364l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
                     </svg>
