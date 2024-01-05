@@ -9,7 +9,7 @@ export default function Hero() {
                 </h1>
                 <p className="mb-8 leading-relaxed">하루하루가 해삐한 꿈 많은 프론트앤드 개발자<br/> 김예림입니다😀</p>
                 <div className="flex justify-center">
-                    <Link href='https://bottlenose-blarney-f0e.notion.site/f3c3d0a0adb64a6dbc0fe1a07ee31d2c?v=0a2c898142dd4a49bf9dc1fb7d86eb39&pvs=4' target="_blank">
+                    <Link href='https://kimyerim1935.github.io/react-components/' target="_blank">
                         <span className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg dark:text-slate-200">프로젝트 보러가기</span>
                     </Link>
                     <Link target="_blank" href='https://github.com/Kimyerim1935'>
