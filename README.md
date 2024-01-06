@@ -7,3 +7,4 @@ https://next-js-portfolio-lake-eta.vercel.app/
 - NextJs
 - Tailwind CSS
 - Vercel
+- OpenGraph
