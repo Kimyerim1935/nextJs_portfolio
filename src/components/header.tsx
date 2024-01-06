@@ -22,7 +22,7 @@ export default function Header() {
                         <Link href='/aboutMe'>
                             <span className="mr-5 hover:text-gray-900">About Me</span>
                         </Link>
-                        <Link href='https://kimyerim1935.github.io/react-components/' target="_blank">
+                        <Link href='https://useplease-ui.github.io/react-components/' target="_blank">
                             <span className="mr-5 hover:text-gray-900">Projects</span>
                         </Link>
                         <a href="https://open.kakao.com/o/sy8Dmgzf" target="_blank" className="mr-5 hover:text-gray-900">Contacts</a>
